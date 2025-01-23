@@ -1,0 +1,10 @@
+dashboard
+painel
+cpainel
+admin
+user
+busca
+search
+noticias
+news
+contact
